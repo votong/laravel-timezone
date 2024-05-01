@@ -1,5 +1,5 @@
 {
-    "name": "jamesmills/laravel-timezone",
+    "name": "votong/laravel-timezone",
     "license": "MIT",
     "description": "Timezone storage and retrieval for Laravel",
     "keywords": [
